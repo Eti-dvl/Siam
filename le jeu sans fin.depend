@@ -1,0 +1,144 @@
+# depslib dependency file v1.0
+1544395781 source:c:\users\etien\onedrive\bureau\programme c\le jeu sans fin\affichage plateau.c
+	<stdio.h>
+	<stdlib.h>
+	"siam.h"
+
+1544094968 source:c:\users\etien\onedrive\bureau\programme c\le jeu sans fin\deplacer_pion.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544395689 c:\users\etien\onedrive\bureau\programme c\le jeu sans fin\siam.h
+
+1544395689 source:c:\users\etien\onedrive\bureau\programme c\le jeu sans fin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544395689 source:c:\users\etien\onedrive\bureau\programme c\le jeu sans fin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544395689 source:c:\users\etien\onedrive\bureau\programme c\le jeu sans fin\orienter_pion.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544395689 source:c:\users\etien\onedrive\bureau\programme c\le jeu sans fin\placer_pion.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544387195 source:c:\users\etien\onedrive\bureau\programme c\le jeu sans fin\plateau.c
+	<stdio.h>
+	<stdlib.h>
+
+1544395689 source:c:\users\etien\onedrive\bureau\programme c\le jeu sans fin\sortir_pion.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544395689 source:c:\users\etien\onedrive\bureau\programme c\le jeu sans fin\pousser_pion.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544387195 source:c:\users\etien\onedrive\bureau\programme c\le jeu sans fin\couleur.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1544395782 source:c:\users\etien\onedrive\bureau\travail\informatique\siam\affichage plateau.c
+	<stdio.h>
+	<stdlib.h>
+	"siam.h"
+
+1544395690 c:\users\etien\onedrive\bureau\travail\informatique\siam\siam.h
+
+1544387196 source:c:\users\etien\onedrive\bureau\travail\informatique\siam\couleur.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1544395690 source:c:\users\etien\onedrive\bureau\travail\informatique\siam\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544395690 source:c:\users\etien\onedrive\bureau\travail\informatique\siam\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544395690 source:c:\users\etien\onedrive\bureau\travail\informatique\siam\orienter_pion.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544395690 source:c:\users\etien\onedrive\bureau\travail\informatique\siam\placer_pion.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544387196 source:c:\users\etien\onedrive\bureau\travail\informatique\siam\plateau.c
+	<stdio.h>
+	<stdlib.h>
+
+1544395690 source:c:\users\etien\onedrive\bureau\travail\informatique\siam\pousser_pion.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544395690 source:c:\users\etien\onedrive\bureau\travail\informatique\siam\sortir_pion.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544395782 source:d:\travail\informatique\siam\affichage plateau.c
+	<stdio.h>
+	<stdlib.h>
+	"siam.h"
+
+1544395690 d:\travail\informatique\siam\siam.h
+
+1544387196 source:d:\travail\informatique\siam\couleur.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1544395690 source:d:\travail\informatique\siam\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544395690 source:d:\travail\informatique\siam\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544395690 source:d:\travail\informatique\siam\orienter_pion.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544395690 source:d:\travail\informatique\siam\placer_pion.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544387196 source:d:\travail\informatique\siam\plateau.c
+	<stdio.h>
+	<stdlib.h>
+
+1544395690 source:d:\travail\informatique\siam\pousser_pion.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
+1544395690 source:d:\travail\informatique\siam\sortir_pion.c
+	<stdio.h>
+	<stdlib.h>
+	"Siam.h"
+
